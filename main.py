@@ -12,9 +12,9 @@ from first_submission import GNN, DE_regularization, compute_DE_bounds, count_cl
 
 
 experiment = Experiment(
-    api_key="saeTJTVrQrbdwDxDGTv8lLRIL",
-    project_name="noisy-graph-labels-challenge",
-    workspace="mavivestini"
+    api_key="",
+    project_name="",
+    workspace=""
 )
 
 
